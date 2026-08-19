@@ -1,0 +1,71 @@
+text,intent
+close jarvis,EXIT_JARVIS
+exit,EXIT_JARVIS
+what is my battery level,SYSTEM_INFO
+start youtube,OPEN_WEBSITE
+set a countdown for 10 minutes,SET_TIMER
+open github,OPEN_WEBSITE
+how much battery do i have,SYSTEM_INFO
+launch github,OPEN_WEBSITE
+stop audio,STOP_MEDIA
+turn the volume down,VOLUME_CONTROL
+goodbye jarvis,EXIT_JARVIS
+set a timer for 30 seconds,SET_TIMER
+open google,OPEN_WEBSITE
+take a screenshot now,TAKE_SCREENSHOT
+open calculator,OPEN_APPLICATION
+start a timer,SET_TIMER
+launch chrome,OPEN_APPLICATION
+launch chatgpt,OPEN_WEBSITE
+find information about transformers,SEARCH_WEB
+start my study timer,SET_TIMER
+stop the music,STOP_MEDIA
+lower the volume,VOLUME_CONTROL
+save a screenshot,TAKE_SCREENSHOT
+find information about cnn,SEARCH_WEB
+raise the volume,VOLUME_CONTROL
+start chrome,OPEN_APPLICATION
+decrease volume,VOLUME_CONTROL
+pause the music,STOP_MEDIA
+look up deep learning,SEARCH_WEB
+screenshot the screen,TAKE_SCREENSHOT
+shutdown jarvis,EXIT_JARVIS
+play music,PLAY_MEDIA
+play a song,PLAY_MEDIA
+check my battery,SYSTEM_INFO
+play a song for me,PLAY_MEDIA
+stop the song,STOP_MEDIA
+look up neural networks,SEARCH_WEB
+start calculator,OPEN_APPLICATION
+check system status,SYSTEM_INFO
+capture the current screen,TAKE_SCREENSHOT
+increase volume,VOLUME_CONTROL
+play my playlist,PLAY_MEDIA
+make it quieter,VOLUME_CONTROL
+start a 15 minute timer,SET_TIMER
+start a countdown,SET_TIMER
+terminate jarvis,EXIT_JARVIS
+search python tutorials,SEARCH_WEB
+turn off the music,STOP_MEDIA
+search for machine learning,SEARCH_WEB
+what is my cpu usage,SYSTEM_INFO
+open youtube,OPEN_WEBSITE
+how much battery is left,SYSTEM_INFO
+launch notepad,OPEN_APPLICATION
+take a screenshot,TAKE_SCREENSHOT
+open vscode,OPEN_APPLICATION
+stop playback,STOP_MEDIA
+capture my display,TAKE_SCREENSHOT
+make it louder,VOLUME_CONTROL
+launch vscode,OPEN_APPLICATION
+i want to exit,EXIT_JARVIS
+start some music,PLAY_MEDIA
+close the assistant,EXIT_JARVIS
+pause the song,STOP_MEDIA
+get youtube running,OPEN_WEBSITE
+search for python tutorials,SEARCH_WEB
+start a 20 minute timer,SET_TIMER
+capture the screen,TAKE_SCREENSHOT
+start playing music,PLAY_MEDIA
+play something,PLAY_MEDIA
+show system information,SYSTEM_INFO

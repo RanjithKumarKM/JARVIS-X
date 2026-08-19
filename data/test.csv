@@ -1,0 +1,16 @@
+text,intent
+stop jarvis,EXIT_JARVIS
+play relaxing music,PLAY_MEDIA
+launch google,OPEN_WEBSITE
+mute the sound,VOLUME_CONTROL
+show my battery percentage,SYSTEM_INFO
+find python tutorials,SEARCH_WEB
+play audio,PLAY_MEDIA
+stop playing,STOP_MEDIA
+end music playback,STOP_MEDIA
+take screen capture,TAKE_SCREENSHOT
+unmute the sound,VOLUME_CONTROL
+launch youtube,OPEN_WEBSITE
+open visual studio code,OPEN_APPLICATION
+search computer vision,SEARCH_WEB
+set a timer for one hour,SET_TIMER

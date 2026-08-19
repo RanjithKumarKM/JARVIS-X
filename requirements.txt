@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+torchaudio
+torchvision
+SpeechRecognition
+PyAudio
+sounddevice
+scipy
+joblib

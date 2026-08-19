@@ -1,0 +1,16 @@
+text,intent
+end the session,EXIT_JARVIS
+turn the volume up,VOLUME_CONTROL
+set a timer for 10 minutes,SET_TIMER
+start music,PLAY_MEDIA
+open chatgpt,OPEN_WEBSITE
+show computer information,SYSTEM_INFO
+take a picture of my screen,TAKE_SCREENSHOT
+open notepad,OPEN_APPLICATION
+search deep learning,SEARCH_WEB
+open the calculator,OPEN_APPLICATION
+stop the current song,STOP_MEDIA
+capture my screen,TAKE_SCREENSHOT
+tell me the system status,SYSTEM_INFO
+quit the assistant,EXIT_JARVIS
+set a five minute timer,SET_TIMER
