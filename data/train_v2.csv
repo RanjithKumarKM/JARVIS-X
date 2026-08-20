@@ -1,0 +1,701 @@
+text,intent
+save the current display,TAKE_SCREENSHOT
+get wikipedia running,OPEN_WEBSITE
+hey jarvis get visual studio code running for me please,OPEN_APPLICATION
+help me get visual studio code running,OPEN_APPLICATION
+find information about convolutional neural networks,SEARCH_WEB
+lower the volume,VOLUME_CONTROL
+can you play some songs please,PLAY_MEDIA
+put on a podcast,PLAY_MEDIA
+mute the sound,VOLUME_CONTROL
+show battery and CPU,SYSTEM_INFO
+create a timer for 10 minutes,SET_TIMER
+I want to check my battery please,SYSTEM_INFO
+search python tutorials,SEARCH_WEB
+pause the audio,STOP_MEDIA
+could you please set a study timer for me,SET_TIMER
+grab a screenshot,TAKE_SCREENSHOT
+I want to get visual studio code running right now,OPEN_APPLICATION
+take a picture of my desktop,TAKE_SCREENSHOT
+end the podcast,STOP_MEDIA
+could you please play some songs,PLAY_MEDIA
+would you please check my battery please,SYSTEM_INFO
+countdown for 10 minutes,SET_TIMER
+look up tensorflow,SEARCH_WEB
+go to linkedin,OPEN_WEBSITE
+would you pause music playback right now,STOP_MEDIA
+find information about cloud computing,SEARCH_WEB
+can you shut down jarvis,EXIT_JARVIS
+I want you to turn audio back on immediately,VOLUME_CONTROL
+stop jarvis,EXIT_JARVIS
+set my timer to 30 minutes,SET_TIMER
+play some videos,PLAY_MEDIA
+would you set a study timer right now,SET_TIMER
+hey jarvis check my battery for me please,SYSTEM_INFO
+count down for 1 minute,SET_TIMER
+stop music playback,STOP_MEDIA
+check RAM usage,SYSTEM_INFO
+I need to get visual studio code running when you can,OPEN_APPLICATION
+stop playing now,STOP_MEDIA
+set a study timer for 30 minutes,SET_TIMER
+open linkedin,OPEN_WEBSITE
+please play some songs right away,PLAY_MEDIA
+shut down jarvis,EXIT_JARVIS
+I need you to check my battery right now,SYSTEM_INFO
+can you open gmail,OPEN_WEBSITE
+can you play relaxing music,PLAY_MEDIA
+mute my laptop,VOLUME_CONTROL
+give me computer details,SYSTEM_INFO
+I need to take a screen capture for me please,TAKE_SCREENSHOT
+please stop the audio,STOP_MEDIA
+I need to pause music playback,STOP_MEDIA
+stop listening,STOP_MEDIA
+can you open google,OPEN_WEBSITE
+find python programming,SEARCH_WEB
+please play some songs for me please,PLAY_MEDIA
+countdown for 1 hour,SET_TIMER
+start a 10 minute timer,SET_TIMER
+I want to play some songs now,PLAY_MEDIA
+raise the volume,VOLUME_CONTROL
+capture my screen,TAKE_SCREENSHOT
+look up cloud computing,SEARCH_WEB
+can you create a timer,SET_TIMER
+can you turn audio back on for me please,VOLUME_CONTROL
+start playing music,PLAY_MEDIA
+take a screenshot for me,TAKE_SCREENSHOT
+set a 10 minute timer,SET_TIMER
+end the video,STOP_MEDIA
+capture the current display,TAKE_SCREENSHOT
+enable the sound,VOLUME_CONTROL
+check my battery right now,SYSTEM_INFO
+open github in my browser,OPEN_WEBSITE
+jarvis take a screen capture immediately,TAKE_SCREENSHOT
+find information about deep learning,SEARCH_WEB
+stop the program,EXIT_JARVIS
+stop the media,STOP_MEDIA
+I need to play some songs please,PLAY_MEDIA
+turn audio back on immediately,VOLUME_CONTROL
+play something to study,PLAY_MEDIA
+check my battery when you can,SYSTEM_INFO
+can you take a screen capture now,TAKE_SCREENSHOT
+find data science,SEARCH_WEB
+open the gmail website,OPEN_WEBSITE
+take a screen shot,TAKE_SCREENSHOT
+could you pause the song,STOP_MEDIA
+what is my battery level,SYSTEM_INFO
+exit the assistant now,EXIT_JARVIS
+stop the song,STOP_MEDIA
+would you please get visual studio code running,OPEN_APPLICATION
+search for cnn,SEARCH_WEB
+I want more volume,VOLUME_CONTROL
+search tensorflow,SEARCH_WEB
+start a podcast,PLAY_MEDIA
+launch file explorer,OPEN_APPLICATION
+turn down the audio,VOLUME_CONTROL
+please get visual studio code running for me,OPEN_APPLICATION
+help me stop the assistant immediately,EXIT_JARVIS
+please quit,EXIT_JARVIS
+would you play some songs for me please,PLAY_MEDIA
+would you set a study timer immediately,SET_TIMER
+can you start a playlist,PLAY_MEDIA
+can you open youtube,OPEN_WEBSITE
+silence my laptop,VOLUME_CONTROL
+search machine learning,SEARCH_WEB
+please start a countdown,SET_TIMER
+increase audio level,VOLUME_CONTROL
+can you get visual studio code running immediately,OPEN_APPLICATION
+would you please play some songs when you can,PLAY_MEDIA
+that's enough,EXIT_JARVIS
+search for data science,SEARCH_WEB
+show computer status,SYSTEM_INFO
+please help me check my battery please,SYSTEM_INFO
+search for convolutional neural networks,SEARCH_WEB
+I need you to check my battery immediately,SYSTEM_INFO
+stop the current song,STOP_MEDIA
+find deep learning,SEARCH_WEB
+I want to play some songs right now,PLAY_MEDIA
+take me to github,OPEN_WEBSITE
+can you check my battery right now,SYSTEM_INFO
+finish this session,EXIT_JARVIS
+please help me take a screen capture please,TAKE_SCREENSHOT
+I want to set a study timer please,SET_TIMER
+I want you to check my battery now,SYSTEM_INFO
+I want to stop the assistant,EXIT_JARVIS
+can you save my screen,TAKE_SCREENSHOT
+control audio,VOLUME_CONTROL
+can you close jarvis,EXIT_JARVIS
+open github,OPEN_WEBSITE
+start a timer for 1 hour,SET_TIMER
+turn off jarvis,EXIT_JARVIS
+check processor usage,SYSTEM_INFO
+tell me CPU usage,SYSTEM_INFO
+please help me get visual studio code running right away,OPEN_APPLICATION
+I need to play some songs right now,PLAY_MEDIA
+capture the display,TAKE_SCREENSHOT
+jarvis play some songs for me,PLAY_MEDIA
+search for machine learning,SEARCH_WEB
+quit the assistant now,EXIT_JARVIS
+jarvis get visual studio code running when you can,OPEN_APPLICATION
+play something to relax,PLAY_MEDIA
+unmute the sound,VOLUME_CONTROL
+jarvis get visual studio code running for me please,OPEN_APPLICATION
+I want you to pause music playback now,STOP_MEDIA
+start a song,PLAY_MEDIA
+I'm done,EXIT_JARVIS
+could you get visual studio code running right away,OPEN_APPLICATION
+stop the song now,STOP_MEDIA
+make a screen capture,TAKE_SCREENSHOT
+pause playing now,STOP_MEDIA
+terminate the session,EXIT_JARVIS
+end the song,STOP_MEDIA
+pause video playback,STOP_MEDIA
+can you capture the screen,TAKE_SCREENSHOT
+show me github,OPEN_WEBSITE
+I want to stop,EXIT_JARVIS
+I need a timer,SET_TIMER
+get the screenshot,TAKE_SCREENSHOT
+search for cloud computing,SEARCH_WEB
+close the program,EXIT_JARVIS
+that's all,EXIT_JARVIS
+play relaxing music,PLAY_MEDIA
+start workout music,PLAY_MEDIA
+start calculator,OPEN_APPLICATION
+take a screenshot of the computer,TAKE_SCREENSHOT
+play some podcasts,PLAY_MEDIA
+end the program,EXIT_JARVIS
+could you take a screenshot,TAKE_SCREENSHOT
+start visual studio code,OPEN_APPLICATION
+take me to wikipedia,OPEN_WEBSITE
+what percentage is my battery,SYSTEM_INFO
+pause the playlist,STOP_MEDIA
+countdown for 5 minutes,SET_TIMER
+can you please play some songs,PLAY_MEDIA
+count down for 10 minutes,SET_TIMER
+help me turn audio back on immediately,VOLUME_CONTROL
+find convolutional neural networks,SEARCH_WEB
+search deep learning,SEARCH_WEB
+jarvis play some songs immediately,PLAY_MEDIA
+we're finished,EXIT_JARVIS
+hey jarvis get visual studio code running please,OPEN_APPLICATION
+search computer vision,SEARCH_WEB
+set a 5 minute timer,SET_TIMER
+look up pytorch,SEARCH_WEB
+start my playlist,PLAY_MEDIA
+would you stop the assistant right away,EXIT_JARVIS
+start playing songs,PLAY_MEDIA
+look up artificial intelligence,SEARCH_WEB
+I need you to get visual studio code running right now,OPEN_APPLICATION
+show me chatgpt,OPEN_WEBSITE
+can you stop the assistant right now,EXIT_JARVIS
+show me youtube,OPEN_WEBSITE
+pause music playback,STOP_MEDIA
+adjust audio,VOLUME_CONTROL
+please help me turn audio back on right away,VOLUME_CONTROL
+find information about natural language processing,SEARCH_WEB
+check device information,SYSTEM_INFO
+start chatgpt,OPEN_WEBSITE
+run calculator,OPEN_APPLICATION
+what are my computer specs,SYSTEM_INFO
+pause the media,STOP_MEDIA
+please help me pause music playback for me,STOP_MEDIA
+please get visual studio code running now,OPEN_APPLICATION
+please turn audio back on right now,VOLUME_CONTROL
+show memory usage,SYSTEM_INFO
+please set a study timer please,SET_TIMER
+look up software engineering,SEARCH_WEB
+please open youtube website,OPEN_WEBSITE
+change sound level,VOLUME_CONTROL
+terminate jarvis,EXIT_JARVIS
+I want to pause the song,STOP_MEDIA
+help me play some songs right now,PLAY_MEDIA
+launch linkedin,OPEN_WEBSITE
+find information about cnn,SEARCH_WEB
+could you please get visual studio code running,OPEN_APPLICATION
+open visual studio code,OPEN_APPLICATION
+please help me get visual studio code running immediately,OPEN_APPLICATION
+search for natural language processing,SEARCH_WEB
+check my battery,SYSTEM_INFO
+can you start a countdown,SET_TIMER
+open the calculator application,OPEN_APPLICATION
+I want to take a screen capture please,TAKE_SCREENSHOT
+can you open file explorer,OPEN_APPLICATION
+find reinforcement learning,SEARCH_WEB
+save my current screen,TAKE_SCREENSHOT
+I want to exit,EXIT_JARVIS
+find natural language processing,SEARCH_WEB
+take a desktop screenshot,TAKE_SCREENSHOT
+stop audio playback,STOP_MEDIA
+open the paint application,OPEN_APPLICATION
+would you stop the assistant immediately,EXIT_JARVIS
+show processor usage,SYSTEM_INFO
+stop the playlist,STOP_MEDIA
+set a timer,SET_TIMER
+check CPU usage,SYSTEM_INFO
+go to gmail,OPEN_WEBSITE
+could you start a countdown,SET_TIMER
+search artificial intelligence,SEARCH_WEB
+open file explorer,OPEN_APPLICATION
+turn audio back on,VOLUME_CONTROL
+adjust sound level,VOLUME_CONTROL
+what is my RAM usage,SYSTEM_INFO
+would you play some songs right away,PLAY_MEDIA
+start a timer,SET_TIMER
+run paint,OPEN_APPLICATION
+raise the audio level,VOLUME_CONTROL
+can you please check my battery now,SYSTEM_INFO
+get visual studio code running now,OPEN_APPLICATION
+please take a screenshot,TAKE_SCREENSHOT
+search for cybersecurity,SEARCH_WEB
+capture the screen,TAKE_SCREENSHOT
+can you open github,OPEN_WEBSITE
+would you play some songs immediately,PLAY_MEDIA
+set a study timer,SET_TIMER
+start my countdown for 10 minutes,SET_TIMER
+find artificial intelligence,SEARCH_WEB
+I would like you to set a study timer for me,SET_TIMER
+could you stop the assistant now,EXIT_JARVIS
+start a countdown for 30 minutes,SET_TIMER
+stop what is playing,STOP_MEDIA
+pause the song,STOP_MEDIA
+take me to youtube,OPEN_WEBSITE
+close the program now,EXIT_JARVIS
+can you take a screen capture,TAKE_SCREENSHOT
+end the session,EXIT_JARVIS
+please turn audio back on immediately,VOLUME_CONTROL
+please help me set a study timer right away,SET_TIMER
+please open google website,OPEN_WEBSITE
+please play music,PLAY_MEDIA
+would you please play some songs,PLAY_MEDIA
+count down for 5 minutes,SET_TIMER
+can you please pause music playback when you can,STOP_MEDIA
+capture this screen,TAKE_SCREENSHOT
+hey jarvis check my battery please,SYSTEM_INFO
+show CPU usage,SYSTEM_INFO
+I want you to play some songs for me please,PLAY_MEDIA
+play some songs,PLAY_MEDIA
+start playing a video,PLAY_MEDIA
+I want to set a study timer when you can,SET_TIMER
+bring up google,OPEN_WEBSITE
+show my computer information,SYSTEM_INFO
+search convolutional neural networks,SEARCH_WEB
+I need you to check my battery when you can,SYSTEM_INFO
+show hardware status,SYSTEM_INFO
+would you take a screen capture,TAKE_SCREENSHOT
+can you stop playback,STOP_MEDIA
+I need you to turn audio back on for me,VOLUME_CONTROL
+search for computer vision,SEARCH_WEB
+please open chatgpt website,OPEN_WEBSITE
+navigate to github,OPEN_WEBSITE
+find computer vision,SEARCH_WEB
+could you create a timer,SET_TIMER
+could you pause the music,STOP_MEDIA
+I want to pause the video,STOP_MEDIA
+jarvis set a study timer right now,SET_TIMER
+turn up my computer volume,VOLUME_CONTROL
+stop the music,STOP_MEDIA
+start lofi music,PLAY_MEDIA
+get visual studio code running,OPEN_APPLICATION
+what are my system specifications,SYSTEM_INFO
+would you please pause music playback for me,STOP_MEDIA
+find cloud computing,SEARCH_WEB
+get youtube running,OPEN_WEBSITE
+take a picture of what is on screen,TAKE_SCREENSHOT
+help me check my battery for me please,SYSTEM_INFO
+begin a countdown for 30 minutes,SET_TIMER
+make my computer louder,VOLUME_CONTROL
+please check my battery right now,SYSTEM_INFO
+I would like you to get visual studio code running right away,OPEN_APPLICATION
+can you pause music playback now,STOP_MEDIA
+launch reddit,OPEN_WEBSITE
+terminate the assistant,EXIT_JARVIS
+hey jarvis play some songs when you can,PLAY_MEDIA
+check battery and CPU,SYSTEM_INFO
+restore sound,VOLUME_CONTROL
+quit,EXIT_JARVIS
+how much CPU am I using,SYSTEM_INFO
+I want less volume,VOLUME_CONTROL
+make my computer quieter,VOLUME_CONTROL
+make the volume louder,VOLUME_CONTROL
+I want a screenshot,TAKE_SCREENSHOT
+open the chatgpt website,OPEN_WEBSITE
+restore my computer audio,VOLUME_CONTROL
+check memory status,SYSTEM_INFO
+please stop the video,STOP_MEDIA
+I need a timer for 10 minutes,SET_TIMER
+tell me my battery percentage,SYSTEM_INFO
+please turn audio back on please,VOLUME_CONTROL
+start the file explorer program,OPEN_APPLICATION
+show my battery,SYSTEM_INFO
+find information about data science,SEARCH_WEB
+end music playback,STOP_MEDIA
+would you check my battery immediately,SYSTEM_INFO
+finish the session,EXIT_JARVIS
+can you please check my battery right now,SYSTEM_INFO
+create a timer for 1 minute,SET_TIMER
+hey jarvis take a screen capture immediately,TAKE_SCREENSHOT
+jarvis quit,EXIT_JARVIS
+please help me get visual studio code running please,OPEN_APPLICATION
+I want to hear a song,PLAY_MEDIA
+I'm finished,EXIT_JARVIS
+I need you to get visual studio code running,OPEN_APPLICATION
+start github,OPEN_WEBSITE
+start file explorer,OPEN_APPLICATION
+could you please check my battery immediately,SYSTEM_INFO
+can you open notepad,OPEN_APPLICATION
+I want to turn audio back on when you can,VOLUME_CONTROL
+set the volume,VOLUME_CONTROL
+silence the audio,VOLUME_CONTROL
+stop what's playing,STOP_MEDIA
+turn the sound off,VOLUME_CONTROL
+please exit,EXIT_JARVIS
+hey jarvis play some songs,PLAY_MEDIA
+can you get visual studio code running,OPEN_APPLICATION
+can you please check my battery for me,SYSTEM_INFO
+pause the current playback,STOP_MEDIA
+start a countdown for 15 minutes,SET_TIMER
+hey jarvis get visual studio code running,OPEN_APPLICATION
+stop the video,STOP_MEDIA
+stop the podcast,STOP_MEDIA
+search for generative ai,SEARCH_WEB
+capture this display,TAKE_SCREENSHOT
+set a 15 minute timer,SET_TIMER
+can you take a screenshot,TAKE_SCREENSHOT
+show system information,SYSTEM_INFO
+could you please pause music playback immediately,STOP_MEDIA
+could you please play some songs when you can,PLAY_MEDIA
+jarvis turn audio back on,VOLUME_CONTROL
+search pytorch,SEARCH_WEB
+help me take a screen capture please,TAKE_SCREENSHOT
+please pause playback,STOP_MEDIA
+go to google,OPEN_WEBSITE
+hey jarvis get visual studio code running immediately,OPEN_APPLICATION
+can you please take a screen capture now,TAKE_SCREENSHOT
+can you please pause music playback right away,STOP_MEDIA
+begin a countdown for 10 minutes,SET_TIMER
+play something in the background,PLAY_MEDIA
+play some songs immediately,PLAY_MEDIA
+I need you to turn audio back on now,VOLUME_CONTROL
+open youtube,OPEN_WEBSITE
+tell me about my computer,SYSTEM_INFO
+go over to youtube,OPEN_WEBSITE
+show my battery percentage,SYSTEM_INFO
+can you capture this screen,TAKE_SCREENSHOT
+start some music,PLAY_MEDIA
+open the google website,OPEN_WEBSITE
+show battery status,SYSTEM_INFO
+search neural networks,SEARCH_WEB
+I want you to check my battery right now,SYSTEM_INFO
+take a screen capture,TAKE_SCREENSHOT
+launch youtube,OPEN_WEBSITE
+find tensorflow,SEARCH_WEB
+take me to reddit,OPEN_WEBSITE
+capture the current screen,TAKE_SCREENSHOT
+find information about machine learning,SEARCH_WEB
+lower the sound,VOLUME_CONTROL
+goodbye assistant,EXIT_JARVIS
+can you quit jarvis,EXIT_JARVIS
+would you get visual studio code running right now,OPEN_APPLICATION
+start reddit,OPEN_WEBSITE
+open chatgpt in my browser,OPEN_WEBSITE
+would you please set a study timer immediately,SET_TIMER
+hey jarvis take a screen capture for me please,TAKE_SCREENSHOT
+could you turn audio back on right away,VOLUME_CONTROL
+would you please play some songs now,PLAY_MEDIA
+stop everything playing,STOP_MEDIA
+get github running,OPEN_WEBSITE
+start study music,PLAY_MEDIA
+would you take a screen capture for me,TAKE_SCREENSHOT
+search for reinforcement learning,SEARCH_WEB
+would you please check my battery immediately,SYSTEM_INFO
+I am finished,EXIT_JARVIS
+pause what is playing,STOP_MEDIA
+remind me after 10 minutes,SET_TIMER
+screenshot this,TAKE_SCREENSHOT
+how much memory am I using,SYSTEM_INFO
+please help me get visual studio code running when you can,OPEN_APPLICATION
+save my screen,TAKE_SCREENSHOT
+can you open chatgpt,OPEN_WEBSITE
+check system information,SYSTEM_INFO
+I want to stop the assistant for me,EXIT_JARVIS
+goodbye jarvis,EXIT_JARVIS
+close jarvis now,EXIT_JARVIS
+capture what is displayed,TAKE_SCREENSHOT
+please increase the volume,VOLUME_CONTROL
+find cybersecurity,SEARCH_WEB
+pause the current video,STOP_MEDIA
+launch chatgpt,OPEN_WEBSITE
+find information about reinforcement learning,SEARCH_WEB
+take a picture of the screen,TAKE_SCREENSHOT
+stop the current media,STOP_MEDIA
+could you stop the music,STOP_MEDIA
+I want to get visual studio code running for me,OPEN_APPLICATION
+can you please get visual studio code running when you can,OPEN_APPLICATION
+I need a screen capture,TAKE_SCREENSHOT
+go over to chatgpt,OPEN_WEBSITE
+shut jarvis down,EXIT_JARVIS
+can you play music,PLAY_MEDIA
+please play a song,PLAY_MEDIA
+would you please play some songs for me,PLAY_MEDIA
+get gmail running,OPEN_WEBSITE
+please create a countdown,SET_TIMER
+search reinforcement learning,SEARCH_WEB
+jarvis play some songs when you can,PLAY_MEDIA
+close the assistant,EXIT_JARVIS
+shut down the assistant,EXIT_JARVIS
+please stop jarvis,EXIT_JARVIS
+can you unmute the sound,VOLUME_CONTROL
+please launch calculator,OPEN_APPLICATION
+could you set a timer,SET_TIMER
+bring up reddit,OPEN_WEBSITE
+can you start the music,PLAY_MEDIA
+start notepad,OPEN_APPLICATION
+check computer status,SYSTEM_INFO
+could you please stop the assistant for me please,EXIT_JARVIS
+check hardware information,SYSTEM_INFO
+get google running,OPEN_WEBSITE
+take my screenshot,TAKE_SCREENSHOT
+would you please get visual studio code running please,OPEN_APPLICATION
+please play some songs,PLAY_MEDIA
+set a study timer now,SET_TIMER
+take a screen capture immediately,TAKE_SCREENSHOT
+I need a timer for 5 minutes,SET_TIMER
+please pause the audio,STOP_MEDIA
+exit jarvis,EXIT_JARVIS
+can you play a podcast,PLAY_MEDIA
+could you please set a study timer right away,SET_TIMER
+jarvis check my battery for me,SYSTEM_INFO
+play something for studying,PLAY_MEDIA
+turn the sound back on,VOLUME_CONTROL
+look up python programming,SEARCH_WEB
+turn off the audio,VOLUME_CONTROL
+end this,EXIT_JARVIS
+get a picture of the screen,TAKE_SCREENSHOT
+open notepad,OPEN_APPLICATION
+please stop the music,STOP_MEDIA
+bring up youtube,OPEN_WEBSITE
+take a screenshot of my screen,TAKE_SCREENSHOT
+can you please play some songs when you can,PLAY_MEDIA
+bring the sound back,VOLUME_CONTROL
+start a 1 hour timer,SET_TIMER
+bring up wikipedia,OPEN_WEBSITE
+search for tensorflow,SEARCH_WEB
+I want to set a study timer for me please,SET_TIMER
+could you please stop the assistant right away,EXIT_JARVIS
+run notepad,OPEN_APPLICATION
+please launch reddit,OPEN_WEBSITE
+I want you to check my battery please,SYSTEM_INFO
+would you stop the assistant for me,EXIT_JARVIS
+please set a timer,SET_TIMER
+remind me after 5 minutes,SET_TIMER
+I need you to get visual studio code running for me please,OPEN_APPLICATION
+please launch linkedin,OPEN_WEBSITE
+open the notepad application,OPEN_APPLICATION
+please launch youtube,OPEN_WEBSITE
+can you please take a screen capture right away,TAKE_SCREENSHOT
+play something for me,PLAY_MEDIA
+find information about cybersecurity,SEARCH_WEB
+please shut down jarvis,EXIT_JARVIS
+stop video playback,STOP_MEDIA
+stop whatever is playing,STOP_MEDIA
+find neural networks,SEARCH_WEB
+I want to play some songs right away,PLAY_MEDIA
+set a timer for cooking,SET_TIMER
+capture screen now,TAKE_SCREENSHOT
+capture the screen please,TAKE_SCREENSHOT
+make it louder,VOLUME_CONTROL
+I want to turn audio back on right now,VOLUME_CONTROL
+I would like you to pause music playback for me please,STOP_MEDIA
+please start a timer,SET_TIMER
+show computer information,SYSTEM_INFO
+I want a screen capture,TAKE_SCREENSHOT
+run visual studio code,OPEN_APPLICATION
+find information about software engineering,SEARCH_WEB
+modify the volume,VOLUME_CONTROL
+would you please get visual studio code running right now,OPEN_APPLICATION
+can you open paint,OPEN_APPLICATION
+I need to turn audio back on when you can,VOLUME_CONTROL
+show system details,SYSTEM_INFO
+take the screenshot,TAKE_SCREENSHOT
+lower the audio level,VOLUME_CONTROL
+I want to listen to a podcast,PLAY_MEDIA
+we are done,EXIT_JARVIS
+search software engineering,SEARCH_WEB
+pause what is currently playing,STOP_MEDIA
+capture my current screen,TAKE_SCREENSHOT
+please exit jarvis,EXIT_JARVIS
+find machine learning,SEARCH_WEB
+make the volume quieter,VOLUME_CONTROL
+take me to linkedin,OPEN_WEBSITE
+show available memory,SYSTEM_INFO
+check my computer,SYSTEM_INFO
+could you get visual studio code running please,OPEN_APPLICATION
+set a 1 hour timer,SET_TIMER
+can you open wikipedia,OPEN_WEBSITE
+pause the video,STOP_MEDIA
+stop now,EXIT_JARVIS
+please help me play some songs now,PLAY_MEDIA
+play some songs right away,PLAY_MEDIA
+would you get visual studio code running,OPEN_APPLICATION
+get visual studio code running for me,OPEN_APPLICATION
+I need to check my battery immediately,SYSTEM_INFO
+navigate to chatgpt,OPEN_WEBSITE
+launch gmail,OPEN_WEBSITE
+create a screenshot,TAKE_SCREENSHOT
+close this session,EXIT_JARVIS
+jarvis exit,EXIT_JARVIS
+could you please pause music playback right now,STOP_MEDIA
+take me to gmail,OPEN_WEBSITE
+find generative ai,SEARCH_WEB
+pause my music,STOP_MEDIA
+please stop playback,STOP_MEDIA
+find lstm,SEARCH_WEB
+capture the screen now,TAKE_SCREENSHOT
+quit jarvis,EXIT_JARVIS
+look up deep learning,SEARCH_WEB
+I want to stop the video,STOP_MEDIA
+play a podcast,PLAY_MEDIA
+could you take a screen capture right now,TAKE_SCREENSHOT
+search for artificial intelligence,SEARCH_WEB
+countdown for 15 minutes,SET_TIMER
+save a snapshot of my display,TAKE_SCREENSHOT
+please pause music playback for me,STOP_MEDIA
+search generative ai,SEARCH_WEB
+bring up linkedin,OPEN_WEBSITE
+set my study countdown,SET_TIMER
+open the visual studio code application,OPEN_APPLICATION
+jarvis close,EXIT_JARVIS
+end the playlist,STOP_MEDIA
+go to wikipedia,OPEN_WEBSITE
+I want to shut down jarvis,EXIT_JARVIS
+find software engineering,SEARCH_WEB
+open wikipedia,OPEN_WEBSITE
+get reddit running,OPEN_WEBSITE
+tell me system information,SYSTEM_INFO
+open reddit,OPEN_WEBSITE
+can you please stop the assistant for me,EXIT_JARVIS
+I would like you to take a screen capture when you can,TAKE_SCREENSHOT
+I want to mute the sound,VOLUME_CONTROL
+help me check my battery when you can,SYSTEM_INFO
+find information about generative ai,SEARCH_WEB
+set a countdown,SET_TIMER
+I want to pause the music,STOP_MEDIA
+take an image of the screen,TAKE_SCREENSHOT
+start my study timer,SET_TIMER
+bring up visual studio code,OPEN_APPLICATION
+show my computer specs,SYSTEM_INFO
+I want to listen to music,PLAY_MEDIA
+unmute my laptop,VOLUME_CONTROL
+jarvis get visual studio code running now,OPEN_APPLICATION
+look up python tutorials,SEARCH_WEB
+stop the current playback,STOP_MEDIA
+start wikipedia,OPEN_WEBSITE
+jarvis get visual studio code running immediately,OPEN_APPLICATION
+search for python programming,SEARCH_WEB
+I would like you to pause music playback when you can,STOP_MEDIA
+set a 1 minute timer,SET_TIMER
+take a screenshot now,TAKE_SCREENSHOT
+close everything,EXIT_JARVIS
+open gmail,OPEN_WEBSITE
+turn the sound down,VOLUME_CONTROL
+save what I see,TAKE_SCREENSHOT
+could you set a study timer,SET_TIMER
+set a timer for my study session,SET_TIMER
+search natural language processing,SEARCH_WEB
+turn the volume back on,VOLUME_CONTROL
+stop playing,STOP_MEDIA
+bye jarvis,EXIT_JARVIS
+please quit jarvis,EXIT_JARVIS
+set a countdown timer,SET_TIMER
+save my desktop,TAKE_SCREENSHOT
+I would like you to get visual studio code running please,OPEN_APPLICATION
+run file explorer,OPEN_APPLICATION
+start the notepad program,OPEN_APPLICATION
+control the volume,VOLUME_CONTROL
+can you set a timer,SET_TIMER
+halt the music,STOP_MEDIA
+open youtube in my browser,OPEN_WEBSITE
+mute the computer,VOLUME_CONTROL
+get chatgpt running,OPEN_WEBSITE
+play a video,PLAY_MEDIA
+set a countdown for 5 minutes,SET_TIMER
+count down for 30 minutes,SET_TIMER
+find information about pytorch,SEARCH_WEB
+search cnn,SEARCH_WEB
+restore the audio,VOLUME_CONTROL
+can you open visual studio code,OPEN_APPLICATION
+can you increase the volume,VOLUME_CONTROL
+mute the audio,VOLUME_CONTROL
+I am done,EXIT_JARVIS
+session complete,EXIT_JARVIS
+look up machine learning,SEARCH_WEB
+find information about lstm,SEARCH_WEB
+get a screenshot,TAKE_SCREENSHOT
+start the calculator program,OPEN_APPLICATION
+please decrease the volume,VOLUME_CONTROL
+can you please get visual studio code running right now,OPEN_APPLICATION
+look up neural networks,SEARCH_WEB
+would you please stop the assistant for me,EXIT_JARVIS
+can you turn audio back on when you can,VOLUME_CONTROL
+play something relaxing,PLAY_MEDIA
+make the sound louder,VOLUME_CONTROL
+jarvis turn audio back on immediately,VOLUME_CONTROL
+can you play some songs immediately,PLAY_MEDIA
+start music,PLAY_MEDIA
+go over to google,OPEN_WEBSITE
+get paint running,OPEN_APPLICATION
+jarvis turn audio back on when you can,VOLUME_CONTROL
+tell me memory usage,SYSTEM_INFO
+what is the processor usage,SYSTEM_INFO
+I need a screenshot,TAKE_SCREENSHOT
+start google,OPEN_WEBSITE
+could you please play some songs right now,PLAY_MEDIA
+I would like you to turn audio back on right now,VOLUME_CONTROL
+start my countdown,SET_TIMER
+can you get visual studio code running when you can,OPEN_APPLICATION
+pause playback,STOP_MEDIA
+check system status,SYSTEM_INFO
+go to github,OPEN_WEBSITE
+remind me after 30 minutes,SET_TIMER
+can you play a song,PLAY_MEDIA
+pause the song now,STOP_MEDIA
+find information about python programming,SEARCH_WEB
+please take a screen capture when you can,TAKE_SCREENSHOT
+I need you to stop the assistant right away,EXIT_JARVIS
+show system status,SYSTEM_INFO
+help me pause music playback for me please,STOP_MEDIA
+I want to check my battery when you can,SYSTEM_INFO
+open the linkedin website,OPEN_WEBSITE
+set a timer for 30 seconds,SET_TIMER
+get a screen capture,TAKE_SCREENSHOT
+make the audio quieter,VOLUME_CONTROL
+bring up github,OPEN_WEBSITE
+can you stop the assistant,EXIT_JARVIS
+bring up file explorer,OPEN_APPLICATION
+change the volume,VOLUME_CONTROL
+how much battery do I have,SYSTEM_INFO
+start a video,PLAY_MEDIA
+can you open reddit,OPEN_WEBSITE
+can you turn audio back on for me,VOLUME_CONTROL
+bring up gmail,OPEN_WEBSITE
+would you take a screen capture please,TAKE_SCREENSHOT
+would you stop the assistant when you can,EXIT_JARVIS
+pause the music,STOP_MEDIA
+I want to turn audio back on,VOLUME_CONTROL
+tell me my system specs,SYSTEM_INFO
+capture my computer screen,TAKE_SCREENSHOT
+look up computer vision,SEARCH_WEB
+search for transformers,SEARCH_WEB
+start a study countdown,SET_TIMER
+can you please get visual studio code running for me,OPEN_APPLICATION
+I want to close jarvis,EXIT_JARVIS
+capture now,TAKE_SCREENSHOT
+can you open calculator,OPEN_APPLICATION
+please take a screen capture,TAKE_SCREENSHOT
+create a countdown,SET_TIMER
+get visual studio code running for me please,OPEN_APPLICATION
+set my timer to 20 minutes,SET_TIMER
+jarvis goodbye,EXIT_JARVIS
+open the github website,OPEN_WEBSITE
+look up lstm,SEARCH_WEB
+I need you to play some songs for me,PLAY_MEDIA
+play a playlist,PLAY_MEDIA

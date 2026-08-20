@@ -11,9 +11,8 @@ from ai_engine.intent_model import IntentClassifier
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
-
-TRAIN_PATH = "data/train.csv"
-VAL_PATH = "data/validation.csv"
+TRAIN_PATH = "data/train_v3.csv"
+VAL_PATH = "data/validation_v3.csv"
 
 BATCH_SIZE = 8
 EMBEDDING_DIM = 64

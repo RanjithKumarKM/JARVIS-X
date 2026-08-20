@@ -1,0 +1,160 @@
+text,intent
+put on a song,PLAY_MEDIA
+search lstm,SEARCH_WEB
+take me to google,OPEN_WEBSITE
+That's enough music for now,STOP_MEDIA
+find information about computer vision,SEARCH_WEB
+jarvis quit,EXIT_JARVIS
+stop the assistant,EXIT_JARVIS
+jarvis stop,EXIT_JARVIS
+stop playback,STOP_MEDIA
+I want to know how backpropagation works,SEARCH_WEB
+search for neural networks,SEARCH_WEB
+look up reinforcement learning,SEARCH_WEB
+please launch gmail,OPEN_WEBSITE
+I need you to set a study timer for me,SET_TIMER
+take a snapshot of the screen,TAKE_SCREENSHOT
+count down for 5 minutes,SET_TIMER
+adjust audio,VOLUME_CONTROL
+check device information,SYSTEM_INFO
+please play some songs for me please,PLAY_MEDIA
+I need information on computer vision,SEARCH_WEB
+you can stop now,EXIT_JARVIS
+please set a study timer please,SET_TIMER
+help me stop the assistant immediately,EXIT_JARVIS
+set a 5 minute timer,SET_TIMER
+find python programming,SEARCH_WEB
+capture the display,TAKE_SCREENSHOT
+open the paint application,OPEN_APPLICATION
+find generative ai,SEARCH_WEB
+take me to chatgpt,OPEN_WEBSITE
+pause the song now,STOP_MEDIA
+begin a countdown,SET_TIMER
+please take a screenshot,TAKE_SCREENSHOT
+stop what's playing,STOP_MEDIA
+set my countdown,SET_TIMER
+launch calculator,OPEN_APPLICATION
+I want the GitHub site open,OPEN_WEBSITE
+set a timer for exercise,SET_TIMER
+look up deep learning,SEARCH_WEB
+save what is on the screen,TAKE_SCREENSHOT
+make a screenshot,TAKE_SCREENSHOT
+end music playback,STOP_MEDIA
+make it louder,VOLUME_CONTROL
+capture my desktop,TAKE_SCREENSHOT
+unmute the sound,VOLUME_CONTROL
+can you stop the assistant right now,EXIT_JARVIS
+pause the video now,STOP_MEDIA
+bring up gmail,OPEN_WEBSITE
+find information about lstm,SEARCH_WEB
+set a timer for 10 seconds,SET_TIMER
+check CPU usage,SYSTEM_INFO
+please create a timer,SET_TIMER
+search transformers,SEARCH_WEB
+I want more volume,VOLUME_CONTROL
+show available memory,SYSTEM_INFO
+play lofi music,PLAY_MEDIA
+can you take a screen capture now,TAKE_SCREENSHOT
+find pytorch,SEARCH_WEB
+play something to study,PLAY_MEDIA
+find machine learning,SEARCH_WEB
+Turn the sound down a little,VOLUME_CONTROL
+make the sound louder,VOLUME_CONTROL
+please start the music,PLAY_MEDIA
+please pause the song,STOP_MEDIA
+I need a countdown of thirty minutes,SET_TIMER
+silence the computer,VOLUME_CONTROL
+show memory usage,SYSTEM_INFO
+I want to take a screen capture please,TAKE_SCREENSHOT
+hey jarvis check my battery for me please,SYSTEM_INFO
+I want to end the session,EXIT_JARVIS
+I need to stop the assistant when you can,EXIT_JARVIS
+jarvis get visual studio code running when you can,OPEN_APPLICATION
+can you unmute the sound,VOLUME_CONTROL
+search for lstm,SEARCH_WEB
+get file explorer running,OPEN_APPLICATION
+please launch github,OPEN_WEBSITE
+Can you get me onto GitHub,OPEN_WEBSITE
+start some music,PLAY_MEDIA
+please close jarvis,EXIT_JARVIS
+jarvis check my battery for me,SYSTEM_INFO
+can you stop jarvis,EXIT_JARVIS
+finish the music,STOP_MEDIA
+could you pause music playback now,STOP_MEDIA
+play a podcast,PLAY_MEDIA
+start the paint program,OPEN_APPLICATION
+open the reddit website,OPEN_WEBSITE
+open youtube in my browser,OPEN_WEBSITE
+please unmute the sound,VOLUME_CONTROL
+navigate to youtube,OPEN_WEBSITE
+you can close now,EXIT_JARVIS
+stop the audio,STOP_MEDIA
+I want a screen capture,TAKE_SCREENSHOT
+Start a timer for half an hour,SET_TIMER
+see you later jarvis,EXIT_JARVIS
+Save what's currently visible,TAKE_SCREENSHOT
+find information about transformers,SEARCH_WEB
+could you please get visual studio code running right away,OPEN_APPLICATION
+start a 5 minute timer,SET_TIMER
+go to reddit,OPEN_WEBSITE
+I want to check my battery when you can,SYSTEM_INFO
+tell me CPU usage,SYSTEM_INFO
+what is my RAM usage,SYSTEM_INFO
+please turn audio back on when you can,VOLUME_CONTROL
+put on a playlist,PLAY_MEDIA
+start playing relaxing music,PLAY_MEDIA
+I want to check my battery please,SYSTEM_INFO
+finish playback,STOP_MEDIA
+please launch visual studio code,OPEN_APPLICATION
+I want to get visual studio code running now,OPEN_APPLICATION
+search for natural language processing,SEARCH_WEB
+help me turn audio back on immediately,VOLUME_CONTROL
+remind me after 15 minutes,SET_TIMER
+bring up reddit,OPEN_WEBSITE
+I need to set a study timer immediately,SET_TIMER
+look up natural language processing,SEARCH_WEB
+take a screenshot of the computer,TAKE_SCREENSHOT
+play something calm,PLAY_MEDIA
+jarvis take a screen capture immediately,TAKE_SCREENSHOT
+set a timer for 10 minutes,SET_TIMER
+please play a song,PLAY_MEDIA
+take a snapshot of my display,TAKE_SCREENSHOT
+would you please check my battery right away,SYSTEM_INFO
+I would like you to set a study timer for me,SET_TIMER
+run paint,OPEN_APPLICATION
+start youtube,OPEN_WEBSITE
+stop everything playing,STOP_MEDIA
+show battery and CPU,SYSTEM_INFO
+could you please pause music playback now,STOP_MEDIA
+stop the assistant now,EXIT_JARVIS
+check system status,SYSTEM_INFO
+open google,OPEN_WEBSITE
+help me get visual studio code running when you can,OPEN_APPLICATION
+play music,PLAY_MEDIA
+please launch chatgpt,OPEN_WEBSITE
+hey jarvis stop the assistant immediately,EXIT_JARVIS
+turn the sound up,VOLUME_CONTROL
+please help me play some songs for me,PLAY_MEDIA
+pause the current playback,STOP_MEDIA
+start the visual studio code program,OPEN_APPLICATION
+please stop the music,STOP_MEDIA
+launch notepad,OPEN_APPLICATION
+could you please turn audio back on,VOLUME_CONTROL
+can you decrease the volume,VOLUME_CONTROL
+help me get visual studio code running immediately,OPEN_APPLICATION
+exit,EXIT_JARVIS
+play a playlist,PLAY_MEDIA
+could you stop the song,STOP_MEDIA
+please launch wikipedia,OPEN_WEBSITE
+jarvis get visual studio code running immediately,OPEN_APPLICATION
+check my RAM,SYSTEM_INFO
+how much RAM is available,SYSTEM_INFO
+open the youtube website,OPEN_WEBSITE
+could you turn audio back on right away,VOLUME_CONTROL
+unmute the audio,VOLUME_CONTROL
+I want a screenshot,TAKE_SCREENSHOT
+save my screen,TAKE_SCREENSHOT
+take a picture of my desktop,TAKE_SCREENSHOT
+please turn audio back on right now,VOLUME_CONTROL
+put on some lofi music,PLAY_MEDIA
+launch visual studio code,OPEN_APPLICATION

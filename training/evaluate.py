@@ -7,8 +7,7 @@ from training.label_encoder import LabelEncoder
 from training.train import JarvisDataset
 from ai_engine.intent_model import IntentClassifier
 
-
-TEST_PATH = "data/test.csv"
+TEST_PATH = "data/test_v2.csv"
 
 BATCH_SIZE = 8
 
